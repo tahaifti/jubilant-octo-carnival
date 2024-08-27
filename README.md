@@ -17,7 +17,7 @@ add varaibles like .env_example
 To start the server, run the following command:
 
 ```bash
-node index.js
+npm run start
 ```
 
 In a separate terminal, navigate to the `client` directory and install the dependencies by running:
