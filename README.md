@@ -2,7 +2,7 @@
 To clone the repository, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/tahaifti/anonymous-media.git
+git clone https://github.com/tahaifti/jubilant-octo-carnival.git
 ```
 
 After cloning the repository, navigate to the `server` directory and install the required dependencies by running:
